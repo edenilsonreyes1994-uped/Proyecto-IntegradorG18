@@ -10,7 +10,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.concurrent.Executors;
 import java.util.concurrent.atomic.AtomicInteger;
-import semana18.web.RepositorioSocios;
+import semana17.web.RepositorioSocios;
 
 public class ServidorVisitas {
     private static int visitas = 0;
